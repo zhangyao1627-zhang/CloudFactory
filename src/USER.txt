@@ -1,0 +1,3 @@
+{"account":"1234","address":"s","birthDate":"2021-01-11","email":"a","factoryName":"s","gender":"男","iDcard":"s","id":"6","name":"s","number":"20202392121","password":"1234","phone":"18975241235","power":"FactoryManager","remark":"k","state":"男"}
+{"account":"12345","address":"1","birthDate":"2021-01-12","email":"s","factoryName":"工厂3","gender":"男","iDcard":"d","id":"7","name":"章","number":"20202910577","password":"12345","phone":"18975248975","power":"FactoryManager","remark":"我","state":"男"}
+{"account":"123456","address":"assad","birthDate":"2021-01-14","email":"sdf","factoryName":"sad","gender":"男","iDcard":"156","id":"8","name":"123","number":"20208326304","password":"123456","phone":"18975248975","power":"FactoryManager","remark":"as","state":"男"}

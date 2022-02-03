@@ -1,0 +1,8 @@
+{"belong":"sd","creator":"0","detail":"1","hireState":"已被租用","id":"1","name":"1","num":"XC0SbiTP","size":"1","state":"开启","type":"uuu"}
+{"belong":"sd","creator":"0","detail":"11","hireState":"已被租用","id":"2","name":"11","num":"A55XL9o5","size":"11","state":"闲置中","type":"wtnl"}
+{"belong":"sd","creator":"0","detail":"333","hireState":"已被租用","id":"3","name":"333","num":"1wcdfy3N","size":"333","state":"闲置中","type":"wtnl"}
+{"belong":"sd","creator":"0","detail":"222","hireState":"已被租用","id":"4","name":"111","num":"dfCQSbzq","size":"222","state":"闲置中","type":"wtnl"}
+{"belong":"sd","creator":"0","detail":"11124","hireState":"已被租用","id":"5","name":"111","num":"RhCMt6gE","size":"222","state":"闲置中","type":"wtnl"}
+{"belong":"s","creator":"0","detail":"sd","hireState":"已被租用","id":"6","name":"sd","num":"tLnFIMxo","size":"sd","state":"闲置中","type":"uuu"}
+{"belong":"s","creator":"6","detail":"asdw","hireState":"工厂设备","id":"7","name":"wef","num":"CS7hxjkE","size":"ds","state":"闲置中","type":"uuu"}
+{"belong":"","creator":"0","detail":"ad","hireState":"未被租用","id":"8","name":"sda","num":"DIpVrwt0","size":"asd","state":"关机","type":"uuu"}
